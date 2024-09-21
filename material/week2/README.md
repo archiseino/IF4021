@@ -7,7 +7,7 @@ Name                  : Arsyadana Estu Aziz
 
 NIM                   : 121140068
 
-Dates Attended        : Wednesday, 04 September 2024
+Dates Attended        : Wednesday, 11 September 2024
 
 ```
 
@@ -15,4 +15,4 @@ Dates Attended        : Wednesday, 04 September 2024
 
 ## Attachment
 
-- ![alt text](attachment/image.png)
+![alt text](attachment/presence.png)
