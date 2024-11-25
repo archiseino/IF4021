@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import mediapipe as mp
 
 # Lokasi video
-VID_PATH = os.path.join(os.getcwd(), 'attachment', 'sample.mp4')
+VID_PATH = os.path.join(os.getcwd(), 'attachment', 'sample-renamed.mp4')
 IMG_KCMT = os.path.join(os.getcwd(), 'attachment', 'sdg.png')
 
 # Inisialisasi Face Mesh

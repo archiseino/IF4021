@@ -7,7 +7,7 @@ import dlib
 import datetime as dt
 import mediapipe as mp
 
-VID_PATH = os.path.join(os.getcwd(), 'attachment', 'sample.mp4')
+VID_PATH = os.path.join(os.getcwd(), 'attachment', 'sample-renamed.mp4')
 
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(static_image_mode=False, max_num_faces=1, min_detection_confidence=0.5, min_tracking_confidence=0.5)
