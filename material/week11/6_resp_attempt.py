@@ -431,7 +431,7 @@ def main():
         
         # Process video
         timestamps, y_positions = process_video(detector_image, video_path,
-                                             max_seconds=20,
+                                             max_seconds=60,
                                              x_size=300,
                                              y_size=200,
                                              shift_x=0,

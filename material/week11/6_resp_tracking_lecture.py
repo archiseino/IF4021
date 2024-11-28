@@ -173,7 +173,7 @@ def main():
     # Create detector
     detector_image = PoseLandmarker.create_from_options(options_image)
     
-    video_path = 'data/toby-rgb.mp4'
+    video_path = 'attachment/sample-renamed.mp4'
     print("\nProcessing video...")
     
     max_seconds = 10
